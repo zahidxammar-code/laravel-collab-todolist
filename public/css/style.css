@@ -178,3 +178,4 @@ input.invalid, textarea.invalid, select.invalid { border-color: var(--danger); }
   .task-actions { flex-direction: row; flex-wrap: wrap; }
 }
 .form-actions { display: flex; gap: .5rem; }
+.nav-name { font-weight: 600; }
